@@ -1,6 +1,6 @@
 # README Generator: Automated README Creation for Software Projects
 
-![Demo](assets/intro.png)
+![Demo](assets/Logo.png)
 
 ## Table of Contents
 

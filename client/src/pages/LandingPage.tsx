@@ -53,7 +53,7 @@ export const LandingPage: React.FC = () => {
             className="text-5xl md:text-6xl font-bold text-gray-900 dark:text-white mb-6"
           >
             <span className="bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent">
-              EASYDOC
+              EASYDOCS
             </span>
             <br />
             <span className="text-3xl md:text-4xl text-gray-700 dark:text-gray-300">
@@ -98,7 +98,7 @@ export const LandingPage: React.FC = () => {
           className="max-w-6xl mx-auto"
         >
           <h2 className="text-3xl font-bold text-center text-gray-900 dark:text-white mb-12">
-            Why Choose EASYDOC?
+            Why Choose EASYDOCS?
           </h2>
           
           <div className="grid md:grid-cols-3 gap-8">
@@ -140,7 +140,7 @@ export const LandingPage: React.FC = () => {
             </h3>
             
             <p className="text-gray-600 dark:text-gray-400 mb-8">
-              Join thousands of developers who have already improved their project documentation with EASYDOC.
+              Join thousands of developers who have already improved their project documentation with EASYDOCS.
             </p>
             
             <SignInButton mode="modal">
