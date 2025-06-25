@@ -1,0 +1,10 @@
+flask==3.0.3
+google-generativeai
+python-dotenv==1.0.1
+werkzeug==3.0.2
+python-jose
+requests
+pymongo
+flask_cors
+PyJWT
+requests

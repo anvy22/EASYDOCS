@@ -1,0 +1,80 @@
+# ------------------------------
+# Node.js / React Frontend
+# ------------------------------
+client/node_modules/
+client/build/
+client/dist/
+client/.env
+client/.env.*       # Include environment-specific env files
+client/.vite/
+client/.turbo/
+client/.next/
+client/.cache/
+client/coverage/
+
+# React tooling
+client/yarn.lock
+client/pnpm-lock.yaml
+client/package-lock.json
+
+# ------------------------------
+# Python Backend (Flask + venv310)
+# ------------------------------
+server/venv310/
+server/__pycache__/
+server/*.pyc
+server/*.pyo
+server/.env
+server/.pytest_cache/
+server/.mypy_cache/
+server/.coverage
+server/.DS_Store
+
+# Byte-compiled / cache files
+*.py[cod]
+__pycache__/
+*.so
+
+# ------------------------------
+# General / Cross-Platform
+# ------------------------------
+.env
+.env.*
+*.log
+*.bak
+*.swp
+*.tmp
+*.temp
+*.sqlite3
+*.db
+
+# IDEs & Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+.eggs/
+MANIFEST
+
+# Test & coverage
+htmlcov/
+.tox/
+coverage.xml
+nosetests.xml
+*.cover
+*.py,cover
+
+# Uploads / temp user files
+uploads/
+media/
+temp/
+tmp/
